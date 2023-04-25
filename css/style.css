@@ -940,7 +940,9 @@ ol {
 }
 
 .filter__controls li.active {
-	color: #111111;
+	color: #fff;
+	background-color:  var(--gold);
+	padding: 10px;
 }
 
 .product__item {
