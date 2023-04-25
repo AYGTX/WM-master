@@ -1962,7 +1962,7 @@ ol {
 }
 
 .footer__about p {
-	color: #b7b7b7;
+	color: #ffffff;
 	margin-bottom: 30px;
 }
 
@@ -1985,12 +1985,12 @@ ol {
 }
 
 .footer__widget ul li a {
-	color: #b7b7b7;
+	color: #fff;
 	font-size: 15px;
 }
 
 .footer__widget .footer__newslatter p {
-	color: #b7b7b7;
+	color: #fff;
 }
 
 .footer__widget .footer__newslatter form {
@@ -2000,7 +2000,7 @@ ol {
 .footer__widget .footer__newslatter form input {
 	width: 100%;
 	font-size: 15px;
-	color: #3d3d3d;
+	color: #ffffff;
 	background: transparent;
 	border: none;
 	padding: 15px 0;
@@ -2008,7 +2008,7 @@ ol {
 }
 
 .footer__widget .footer__newslatter form input::-webkit-input-placeholder {
-	color: #3d3d3d;
+	color: #ffffff;
 }
 
 .footer__widget .footer__newslatter form input::-moz-placeholder {
@@ -3865,3 +3865,6 @@ ol {
 	display: none!important ;
 	/* used to hide color selection	 */
 }
+#newsletter::placeholder{
+	color: #fff
+	}
